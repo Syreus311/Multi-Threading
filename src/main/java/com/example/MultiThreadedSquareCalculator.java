@@ -4,7 +4,7 @@ import java.util.*;
 import java.util.concurrent.*;
 
 
-//EJEMPLO PRACTICO
+//EJEMPLO PRÁCTICO
 
 public class MultiThreadedSquareCalculator {
 
