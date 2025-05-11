@@ -3,6 +3,9 @@ package com.example;
 import java.util.*;
 import java.util.concurrent.*;
 
+
+//EJEMPLO PRACTICO
+
 public class MultiThreadedSquareCalculator {
 
     public static void main(String[] args) throws InterruptedException, ExecutionException {
