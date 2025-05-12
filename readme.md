@@ -1,5 +1,10 @@
 ### Taller sobre Multi-threading en Java
 
+
+### Katherin Juliana Moreno Carvajal
+### Mariana Salas Gutierrez
+### Santiago Navarro Cuy
+
 #### Objetivo
 El objetivo de este taller es aprender los conceptos fundamentales de multi-threading en Java, implementando ejemplos prácticos para entender cómo manejar múltiples hilos en una aplicación Java.
 
